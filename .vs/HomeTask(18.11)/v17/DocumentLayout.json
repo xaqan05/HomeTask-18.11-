@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|c:\\users\\user\\desktop\\programming\\c#\\hometask(18.11)\\hometask(18.11)\\services\\loggedinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|solutionrelative:hometask(18.11)\\services\\loggedinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|c:\\users\\user\\desktop\\programming\\c#\\hometask(18.11)\\hometask(18.11)\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|solutionrelative:hometask(18.11)\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|c:\\users\\user\\desktop\\programming\\c#\\hometask(18.11)\\hometask(18.11)\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|solutionrelative:hometask(18.11)\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|c:\\users\\user\\desktop\\programming\\c#\\hometask(18.11)\\hometask(18.11)\\helpers\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|solutionrelative:hometask(18.11)\\helpers\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|c:\\users\\user\\desktop\\programming\\c#\\hometask(18.11)\\hometask(18.11)\\helpers\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|solutionrelative:hometask(18.11)\\helpers\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|c:\\users\\user\\desktop\\programming\\c#\\hometask(18.11)\\hometask(18.11)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|solutionrelative:hometask(18.11)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|c:\\users\\user\\desktop\\programming\\c#\\hometask(18.11)\\hometask(18.11)\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|solutionrelative:hometask(18.11)\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|c:\\users\\user\\desktop\\programming\\c#\\hometask(18.11)\\hometask(18.11)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|solutionrelative:hometask(18.11)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|c:\\users\\user\\desktop\\programming\\c#\\hometask(18.11)\\hometask(18.11)\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60782B-37A4-41FF-B435-6431A104DFCE}|HomeTask(18.11)\\HomeTask(18.11).csproj|solutionrelative:hometask(18.11)\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Helpers\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "HomeTask(18.11)\\Helpers\\Exceptions\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Helpers\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "HomeTask(18.11)\\Helpers\\Exceptions\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:19:58.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Helpers\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "HomeTask(18.11)\\Helpers\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Helpers\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "HomeTask(18.11)\\Helpers\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:18:38.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoggedInMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Services\\LoggedInMenu.cs",
+              "RelativeDocumentMoniker": "HomeTask(18.11)\\Services\\LoggedInMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Services\\LoggedInMenu.cs",
+              "RelativeToolTip": "HomeTask(18.11)\\Services\\LoggedInMenu.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAUwLAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:10:40.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HomeTask(18.11)\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "HomeTask(18.11)\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:26:44.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Models\\Basket.cs",
+              "RelativeDocumentMoniker": "HomeTask(18.11)\\Models\\Basket.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Models\\Basket.cs",
+              "RelativeToolTip": "HomeTask(18.11)\\Models\\Basket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:23:34.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HomeTask(18.11)\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Models\\Product.cs",
+              "RelativeToolTip": "HomeTask(18.11)\\Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:23:22.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HomeTask(18.11)\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Models\\User.cs",
+              "RelativeToolTip": "HomeTask(18.11)\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:23:11.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "HomeTask(18.11)\\Services\\Services.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Services\\Services.cs",
+              "RelativeToolTip": "HomeTask(18.11)\\Services\\Services.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:30:10.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Program.cs",
+              "RelativeDocumentMoniker": "HomeTask(18.11)\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Programming\\C#\\HomeTask(18.11)\\HomeTask(18.11)\\Program.cs",
+              "RelativeToolTip": "HomeTask(18.11)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:20:49.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
